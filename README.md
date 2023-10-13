@@ -11,7 +11,7 @@ This project is a faithful PyTorch implementation of [NeRF](http://www.matthewta
 ## Installation
 
 ```
-git clone [https://github.com/yenchenlin/nerf-pytorch.git](https://github.com/savnani5/og-nerf.git)](https://github.com/savnani5/og-nerf.git)
+git clone [https://github.com/savnani5/og-nerf.git](https://github.com/savnani5/og-nerf.git)
 cd og-nerf
 pip install -r requirements.txt
 ```
